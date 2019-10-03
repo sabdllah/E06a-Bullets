@@ -5,6 +5,8 @@ It's narwhals vs. penguins(?)! These natural enemies are locked in a battle; who
 
 I have given you the beginnings of a shooter game. At a minimum, you will need to generate a bullet when the mouse button is clicked (line 95), and then detect a collsion with a penguin (line 76), decrease its health, check if it dies, and increase the player's score.
 
+In main1.py you will find the code that allows the narwhal to shoot bulletts at the penguins and kill them and earn points. 
+
 For extra credit, end the game when all the penguins have been killed.
 
 I will award significant extra credit if you subsequently create a main2.py, using the same framework, that allows the penguins to fire back. I have included a bullet_enemy.png asset for that purpose. Even more points will be awarded if you include explosions and/or damage indicators.
